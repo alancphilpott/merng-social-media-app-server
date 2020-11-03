@@ -1,12 +1,21 @@
 {
     "name": "merng-social-media-app",
     "version": "1.0.0",
-    "description": "",
+    "description": "Social Media Posting App",
+    "engines": {
+        "node": "12.19.0"
+    },
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "keywords": [],
+    "keywords": [
+        "node",
+        "apollo",
+        "express",
+        "graphql",
+        "jsonwebtoken"
+    ],
     "author": "",
     "license": "ISC",
     "dependencies": {
