@@ -1,3 +1,5 @@
+This repo contains the back-end code. View the front-end code [here](https://github.com/alancphilpott/merng-social-media-app-client).
+
 # Social Media App
 
 A user can register which allows them to post on the site. Users can like each others posts and comment on them.
